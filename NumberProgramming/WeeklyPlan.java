@@ -10,35 +10,35 @@ public class WeeklyPlan {
 
         switch(day) {
             case 1:
-                System.out.println("Monday: Study Java Basics");
+                System.out.println("Monday: Study");
                 break;
 
             case 2:
-                System.out.println("Tuesday: Practice DSA Arrays");
+                System.out.println("Tuesday: Playing");
                 break;
 
             case 3:
-                System.out.println("Wednesday: Learn SQL Queries");
+                System.out.println("Wednesday: Hotel");
                 break;
 
             case 4:
-                System.out.println("Thursday: Practice Coding Problems");
+                System.out.println("Thursday: Temple");
                 break;
 
             case 5:
-                System.out.println("Friday: Revise Java + SQL");
+                System.out.println("Friday: Movie");
                 break;
 
             case 6:
-                System.out.println("Saturday: Mini Project / GitHub Upload");
+                System.out.println("Saturday: Weekend plan");
                 break;
 
             case 7:
-                System.out.println("Sunday: Mock Test + Revision");
+                System.out.println("Sunday: Sleeping ");
                 break;
 
             default:
-                System.out.println("Invalid day! Enter 1 to 7 only.");
+                System.out.println("Invalid day");
         }
 
         sc.close();
