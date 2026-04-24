@@ -1,3 +1,4 @@
+package NumberProgramming;
 import java.util.Scanner;
 public class SpyNumber {
     static boolean  isspyNum(int num){

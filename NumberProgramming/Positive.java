@@ -1,3 +1,4 @@
+package NumberProgramming;
 import java.util.Scanner;
 public class Positive {
     static String positive(int num){

@@ -1,3 +1,4 @@
+package NumberProgramming;
 import java.util.Scanner;
 public class BuzzNumber {
     static boolean buzz(int num){

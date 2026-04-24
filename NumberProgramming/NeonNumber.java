@@ -1,3 +1,4 @@
+package NumberProgramming;
 import java.util.Scanner;
 public class NeonNumber {
     static boolean  isneon(int num){

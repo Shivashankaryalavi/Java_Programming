@@ -1,3 +1,4 @@
+package NumberProgramming;
 import java. util.Scanner;
 public class Even {
     public static void EvenOdd(int n){
