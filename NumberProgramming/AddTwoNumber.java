@@ -1,4 +1,4 @@
-package NumberProgramming;
+
 import java.util.Scanner;
 public class AddTwoNumber {
 
